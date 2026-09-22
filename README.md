@@ -56,7 +56,10 @@ src/
   check_data.py               data sanity checks
 
 results/    model outputs, DE results, permutation results, figures/
-data/       raw/ (gitignored) and processed/ (gitignored, regenerable)
+data/       raw/ has the RNA files gitignored (2.4GB, too large for
+            git); manifest, sample sheet, metadata, and clinical TSVs
+            are included. processed/ is gitignored and regenerable
+            by running build_dataset.py.
 ```
 
 
