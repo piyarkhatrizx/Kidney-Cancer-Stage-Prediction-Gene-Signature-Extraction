@@ -1,0 +1,7 @@
+observed_auroc	0.765995
+n_permutations	100
+null_mean	0.497964
+null_std	0.036700
+null_p95	0.562899
+n_ge_observed	0
+p_value	0.009901

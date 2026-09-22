@@ -1,0 +1,13 @@
+name: kidney
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - xgboost
+  - numpy
+  - matplotlib
+  - pandas
+  - pyarrow
+  - seaborn
+  - scikit-learn
+prefix: /opt/anaconda3/envs/kidney
